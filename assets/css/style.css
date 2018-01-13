@@ -1,0 +1,33 @@
+#buttons {
+	color: blue;
+}
+
+body {
+	
+}
+
+button {
+	margin-left: 10px;
+	color: red;
+	margin-bottom: 10px;
+}
+
+#images {
+	/*margin-right: 10px;
+	margin-top: 20px;*/
+}
+
+#movie-form {
+	margin-left: 650px;
+}
+
+.gifs {
+	margin-right: 10px;
+	margin-bottom: 10px;
+	/*float: left;*/
+}
+
+#rating {
+
+}
+
