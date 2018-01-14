@@ -22,7 +22,6 @@ $(document).on("click", "button" , function() {
 //create a function that calls the giphy api for each movie
 console.log(this.value);
 
-// var queryURL = "https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag=" + this.value;
 var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + this.value + "&api_key=dc6zaTOxFJmzC&limit=10";
 
     $.ajax({
